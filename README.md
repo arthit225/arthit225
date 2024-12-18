@@ -1,8 +1,8 @@
 
-## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> Vue, React | Div, Elementor | Storyblok, Headless CMS | Tailwind Frontend Developer 
+## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> React, Vue | Divi, Elementor | Storyblok, Headless CMS | Tailwind Frontend Developer 
 
-- VueJS, NuxtJS
 - ReactJS, NextJS
+- VueJS, NuxtJS
 - Build website with Divi and Elementor 
 - Build Custom Divi Modules(plugins)
 - Build custom Elementor Modules
