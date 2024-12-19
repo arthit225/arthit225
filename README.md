@@ -1,11 +1,13 @@
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> React, Vue | Divi, Elementor | Storyblok, Headless CMS | Tailwind Frontend Developer 
 
-- ReactJS, NextJS
-- VueJS, NuxtJS
+- Wordpress
 - Build website with Divi and Elementor 
 - Build Custom Divi Modules(plugins)
 - Build custom Elementor Modules
+- Shopify
+- ReactJS, NextJS
+- VueJS, NuxtJS
 - HTML,CSS,SSS, Twig
 - Jquery/Javascript
 - PHP, Laravel, Yii
@@ -14,7 +16,6 @@
 - Storyblok, CraftCMS, dotCMS, Prismic, Strapi, Sanity
 - Algolia
 - Eleventy(11ty), Hugo
-- Shopify
 - Tauri
 - Responsive design.
 - Pixel-perfect wbesite
